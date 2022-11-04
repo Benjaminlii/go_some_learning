@@ -11,8 +11,8 @@ import (
 	"github.com/apache/rocketmq-client-go/v2/primitive"
 	"github.com/apache/rocketmq-client-go/v2/producer"
 
-	"code/benjamin/go_some_learning/biz/config"
-	"code/benjamin/go_some_learning/biz/driver/logger"
+	"github.com/Benjaminlii/go_some_learning/biz/config"
+	"github.com/Benjaminlii/go_some_learning/biz/driver/logger"
 )
 
 const (

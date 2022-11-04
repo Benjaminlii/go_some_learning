@@ -6,7 +6,7 @@ import (
 
 	"github.com/jinzhu/configor"
 
-	"code/benjamin/go_some_learning/biz/utils/env"
+	"github.com/Benjaminlii/go_some_learning/biz/utils/env"
 )
 
 var (
