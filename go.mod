@@ -1,6 +1,6 @@
 module github.com/Benjaminlii/go_some_learning
 
-go 1.19
+go 1.20
 
 require (
 	github.com/Benjaminlii/async_task v0.0.0-20221104062836-87c554f028a9
